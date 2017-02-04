@@ -41,7 +41,7 @@ define(['jquery', 'jqueryui', 'core/yui'], function ($, Y) {
         initialise: function (params) {
             $(document).ready(function () {
                 log('Loaded onetopic');
-                $('.course-content > .onetopic li a').each(function (i,e) {
+                $('.course-content > .onetopic .nav-tabs li a').each(function (i,e) {
                     $(this).html($(this).text());
                 }),
 
