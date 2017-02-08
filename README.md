@@ -1,8 +1,8 @@
 COURSE FORMATS Onetopic
 ============================
-Edit by: Luuk Verhoeven
-
-Package tested in: moodle 3.2.1+
+![MoodleFreak.com](http://moodlefreak.com/logo_small.png)
+* Edit by: Luuk Verhoeven, [MoodleFreak.com](http://www.moodlefreak.com/)
+* Package tested in: moodle 3.2.1+
 
 QUICK INSTALL
 ==============
